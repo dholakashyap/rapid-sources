@@ -3,9 +3,9 @@ An online app to build extensions on the cloud using blocks!
 ## Cloning
 To get started with Rapid sources. You need to fork & clone the sources locally.
 ```bash
-git clone https://github.com/USERNAME/rapid-sources
+git clone https://github.com/dholakashyap/rapid-sources
 cd rapid-sources
-git remote add upstream https://github.com/Rapid1/rapid-sources
+git remote add upstream https://github.com/dholakashyap/rapid-sources
 git submodule update --init
 ```
 ## Preparing
